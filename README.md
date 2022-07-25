@@ -1,6 +1,6 @@
 # OpenGL demo
 
-本项目是我跟随https://learnopengl-cn.github.io/intro/教程学习OpenGL时创建的测试项目
+本项目是我跟随[教程](https://learnopengl-cn.github.io/intro/)学习OpenGL时创建的测试项目
 
 ## 代码运行方法
 
